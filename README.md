@@ -74,11 +74,11 @@ Actively participating in CTFs, a proud member of BKSEC, and head of the Forensi
 
 | # | Name | Type | Date |
 |---|------|------|------|
-| 1 | [HTB Sherlock: Caught](https://blog.pachoalto.xyz/htb/caught/) | HTB | 2026-05-13 |
-| 2 | [HTB Sherlock: Hunter](https://blog.pachoalto.xyz/htb/hunter/) | HTB | 2026-05-08 |
-| 3 | [HTB Sherlock: Easy Money](https://blog.pachoalto.xyz/htb/easy-money/) | HTB | 2026-04-21 |
-| 4 | [HTB Sherlock: SillyEli](https://blog.pachoalto.xyz/htb/silly-eli/) | HTB | 2026-04-06 |
-| 5 | [HTB Sherlock: Novitas](https://blog.pachoalto.xyz/htb/novitas/) | HTB | 2026-03-27 |
+| 1 | [HTB Sherlock: ProcNet](https://blog.pachoalto.xyz/htb/procnet/) | HTB | 2026-06-24 |
+| 2 | [HTB Sherlock: Caught](https://blog.pachoalto.xyz/htb/caught/) | HTB | 2026-05-13 |
+| 3 | [HTB Sherlock: Hunter](https://blog.pachoalto.xyz/htb/hunter/) | HTB | 2026-05-08 |
+| 4 | [HTB Sherlock: Easy Money](https://blog.pachoalto.xyz/htb/easy-money/) | HTB | 2026-04-21 |
+| 5 | [HTB Sherlock: SillyEli](https://blog.pachoalto.xyz/htb/silly-eli/) | HTB | 2026-04-06 |
 
 </td>
 </tr>
