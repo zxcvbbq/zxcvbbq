@@ -61,11 +61,11 @@ Actively participating in CTFs, a proud member of BKSEC, and head of the Forensi
 
 | # | Name | Type | Date |
 |---|------|------|------|
-| 1 | [HTB Business CTF 2026: Project Nightfall Forensics Write-ups](https://blog.pachoalto.xyz/posts/htb-business-ctf-2026-project-nightfall/) | Posts | 2026-05-24 |
-| 2 | [BKSEC TTV Forensics 2026 Writeups](https://blog.pachoalto.xyz/posts/bksec-ttv-ctf-2026/) | Posts | 2026-03-09 |
-| 3 | [VCS Passport CTF Blue Entrance Exam 2025](https://blog.pachoalto.xyz/posts/vcs-passport-entrance-exam-2025/) | Posts | 2025-12-20 |
-| 4 | [CSCV 2025 Qualifiers: Forensics Challenge Writeup](https://blog.pachoalto.xyz/posts/cscv-2025-forensics-writeup/) | Posts | 2025-10-22 |
-| 5 | [Compromised Ubuntu VMAnalysis](https://blog.pachoalto.xyz/posts/ubuntu-vm-compromise-analysis/) | Posts | 2025-05-29 |
+| 1 | [Memdump analysis in CTF??](https://blog.pachoalto.xyz/posts/memory-research/) | Posts | 2026-08-01 |
+| 2 | [HTB Business CTF 2026: Project Nightfall Forensics Write-ups](https://blog.pachoalto.xyz/posts/htb-business-ctf-2026-project-nightfall/) | Posts | 2026-05-24 |
+| 3 | [BKSEC TTV Forensics 2026 Writeups](https://blog.pachoalto.xyz/posts/bksec-ttv-ctf-2026/) | Posts | 2026-03-09 |
+| 4 | [VCS Passport CTF Blue Entrance Exam 2025](https://blog.pachoalto.xyz/posts/vcs-passport-entrance-exam-2025/) | Posts | 2025-12-20 |
+| 5 | [CSCV 2025 Qualifiers: Forensics Challenge Writeup](https://blog.pachoalto.xyz/posts/cscv-2025-forensics-writeup/) | Posts | 2025-10-22 |
 
 </td>
 <td valign="top" width="50%">
