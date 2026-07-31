@@ -61,7 +61,7 @@ Actively participating in CTFs, a proud member of BKSEC, and head of the Forensi
 
 | # | Name | Type | Date |
 |---|------|------|------|
-| 1 | [Memdump analysis in CTF??](https://blog.pachoalto.xyz/posts/memory-research/) | Posts | 2026-08-01 |
+| 1 | [Causing trouble for LLMs with memory dump analysis in CTF??](https://blog.pachoalto.xyz/posts/memory-research/) | Posts | 2026-08-01 |
 | 2 | [HTB Business CTF 2026: Project Nightfall Forensics Write-ups](https://blog.pachoalto.xyz/posts/htb-business-ctf-2026-project-nightfall/) | Posts | 2026-05-24 |
 | 3 | [BKSEC TTV Forensics 2026 Writeups](https://blog.pachoalto.xyz/posts/bksec-ttv-ctf-2026/) | Posts | 2026-03-09 |
 | 4 | [VCS Passport CTF Blue Entrance Exam 2025](https://blog.pachoalto.xyz/posts/vcs-passport-entrance-exam-2025/) | Posts | 2025-12-20 |
