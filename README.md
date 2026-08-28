@@ -29,7 +29,7 @@ Cybersecurity student focused on incident response, blue team operations, and di
 
 Hey, I'm Danh Quan a.k.a pacho.
 
-3nd-year BSc @ SoICT, Hanoi University of Science and Technology.
+3rd-year BSc @ SoICT, Hanoi University of Science and Technology.
 
 Majoring in Information and Communication Technology.
 
