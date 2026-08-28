@@ -5,9 +5,6 @@
 Cybersecurity student focused on incident response, blue team operations, and digital forensics.
 
 <p>
-  <a href="https://pachoalto.xyz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=111111&logoColor=white&labelColor=&style=flat" height="24" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/danh-quan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=flat" height="24" alt="LinkedIn" />
   </a>
@@ -32,7 +29,7 @@ Cybersecurity student focused on incident response, blue team operations, and di
 
 Hey, I'm Danh Quan a.k.a pacho.
 
-2nd-year BSc @ SoICT, Hanoi University of Science and Technology.
+3nd-year BSc @ SoICT, Hanoi University of Science and Technology.
 
 Majoring in Information and Communication Technology.
 
