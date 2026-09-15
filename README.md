@@ -44,8 +44,6 @@ Actively participating in CTFs, a proud member of BKSEC, and head of the Forensi
 - Incident response and security operations
 - Digital forensics and investigation
 - CTFs and hands-on security practice
-- Exploring offensive security with a defensive mindset
-
 
 ## Latest Blog Posts
 
