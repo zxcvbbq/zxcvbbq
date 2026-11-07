@@ -56,11 +56,11 @@ Actively participating in CTFs, a proud member of BKSEC, and head of the Forensi
 
 | # | Name | Type | Date |
 |---|------|------|------|
-| 1 | [Causing trouble for LLMs with memory dump analysis in CTF??](https://blog.pachoalto.xyz/posts/memory-research/) | Posts | 2026-08-01 |
-| 2 | [HTB Business CTF 2026: Project Nightfall Forensics Write-ups](https://blog.pachoalto.xyz/posts/htb-business-ctf-2026-project-nightfall/) | Posts | 2026-05-24 |
-| 3 | [BKSEC TTV Forensics 2026 Writeups](https://blog.pachoalto.xyz/posts/bksec-ttv-ctf-2026/) | Posts | 2026-03-09 |
-| 4 | [VCS Passport CTF Blue Entrance Exam 2025](https://blog.pachoalto.xyz/posts/vcs-passport-entrance-exam-2025/) | Posts | 2025-12-20 |
-| 5 | [CSCV 2025 Qualifiers: Forensics Challenge Writeup](https://blog.pachoalto.xyz/posts/cscv-2025-forensics-writeup/) | Posts | 2025-10-22 |
+| 1 | [VCS Passport CTF Blue 2025 Revamp](https://blog.pachoalto.xyz/posts/vcs-passport-2025-redo/) | Posts | 2026-11-07 |
+| 2 | [Causing trouble for LLMs with memory dump analysis in CTF??](https://blog.pachoalto.xyz/posts/memory-research/) | Posts | 2026-08-01 |
+| 3 | [HTB Business CTF 2026: Project Nightfall Forensics Write-ups](https://blog.pachoalto.xyz/posts/htb-business-ctf-2026-project-nightfall/) | Posts | 2026-05-24 |
+| 4 | [BKSEC TTV Forensics 2026 Writeups](https://blog.pachoalto.xyz/posts/bksec-ttv-ctf-2026/) | Posts | 2026-03-09 |
+| 5 | [VCS Passport CTF Blue Entrance Exam 2025](https://blog.pachoalto.xyz/posts/vcs-passport-entrance-exam-2025/) | Posts | 2025-12-20 |
 
 </td>
 <td valign="top" width="50%">
