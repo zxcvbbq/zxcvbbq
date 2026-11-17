@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="files/dance.gif" width="400" alt="Animated dance" />
+<img src="files/dance.gif" width="600" alt="Animated dance" />
 
 # Danh Quan (pacho)
 
