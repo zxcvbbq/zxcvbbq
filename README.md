@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="files/dance.gif" width="240" alt="Animated dance" />
+
 # Danh Quan (pacho)
 
 Cybersecurity student focused on incident response, blue team operations, and digital forensics.
